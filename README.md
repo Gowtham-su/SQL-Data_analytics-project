@@ -1,4 +1,4 @@
-![Date_Exploration_range_of_years](https://github.com/user-attachments/assets/948a9627-5d3c-4a18-af9c-1b27d7b2d63d)# sql-data-analysis-project
+# sql-data-analysis-project
 # Overview
 SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as **database exploration**, **measures and metrics**, **time-based trends**, **cumulative analytics**, **segmentation**.
 
@@ -34,6 +34,8 @@ Rank Exploration
 ![Dimension exploration_distinct products_01](https://github.com/user-attachments/assets/2aea6f48-f3fd-4a60-b9c8-b72c63bd3040)
 ## Distinct Products
 ![Dimension exploration_distinct products_02](https://github.com/user-attachments/assets/1c70ea8f-3246-487a-98a0-6b46ab9ce4b3)
+## Range Of Years
+![Date_Exploration_range_of_years](https://github.com/user-attachments/assets/948a9627-5d3c-4a18-af9c-1b27d7b2d63d)
 
 #	Date Exploration
   Identify the earliest and latest dates(boundries). 
